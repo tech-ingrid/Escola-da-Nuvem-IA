@@ -1,5 +1,5 @@
 ## Sobre Mim
-Este repositório foi criado como parte do meu aprendizado em Python na Escola da Nuvem no Módulo de IA. O objetivo é praticar e consolidar os conhecimentos adquiridos em programação básica.
+Este repositório foi criado como parte do meu aprendizado em Python na Escola da Nuvem no Módulo de IA. O objetivo é praticar e consolidar os conhecimentos adquiridos em programação básica com python.
 
 
 ## Conteúdo
