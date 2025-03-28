@@ -69,7 +69,8 @@ Este programa consulta a cotação atual de uma moeda em relação ao Real (BRL)
 
 ***- Arquivo 'aula10.py':*** 
 Este programa consulta a cotação atual do Dólar (USD) ou Euro (EUR) em relação ao Real (BRL), utilizando a API AwesomeAPI.
+
 **Funcionalidades:**
-Consulta automática da cotação do USD ou EUR para BRL.
-Validação para aceitar apenas as moedas suportadas.
-Exibição do valor atualizado da cotação.
+> Consulta automática da cotação do USD ou EUR para BRL.
+> Validação para aceitar apenas as moedas suportadas.
+> Exibição do valor atualizado da cotação.
